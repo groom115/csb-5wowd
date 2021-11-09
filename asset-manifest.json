@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://groom115.github.io/csb-5wowd/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://groom115.github.io/csb-5wowd/static/js/main.41b4c72b.chunk.js",
+    "main.js.map": "https://groom115.github.io/csb-5wowd/static/js/main.41b4c72b.chunk.js.map",
+    "runtime-main.js": "https://groom115.github.io/csb-5wowd/static/js/runtime-main.3b79decd.js",
+    "runtime-main.js.map": "https://groom115.github.io/csb-5wowd/static/js/runtime-main.3b79decd.js.map",
+    "static/js/2.6f0b3052.chunk.js": "https://groom115.github.io/csb-5wowd/static/js/2.6f0b3052.chunk.js",
+    "static/js/2.6f0b3052.chunk.js.map": "https://groom115.github.io/csb-5wowd/static/js/2.6f0b3052.chunk.js.map",
+    "index.html": "https://groom115.github.io/csb-5wowd/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://groom115.github.io/csb-5wowd/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6f0b3052.chunk.js.LICENSE.txt": "https://groom115.github.io/csb-5wowd/static/js/2.6f0b3052.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b79decd.js",
+    "static/js/2.6f0b3052.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.41b4c72b.chunk.js"
+  ]
+}

@@ -1,0 +1,2 @@
+(this["webpackJsonpsearch-engine-movie"]=this["webpackJsonpsearch-engine-movie"]||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var c=t(1),s=t(3),i=t.n(s),o=(t(8),t(0));function r(){return Object(o.jsxs)("div",{className:"App",children:[Object(o.jsx)("h1",{children:"Hello CodeSandbox"}),Object(o.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}const a=document.getElementById("root");i.a.render(Object(o.jsx)(c.StrictMode,{children:Object(o.jsx)(r,{})}),a)},8:function(e,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.41b4c72b.chunk.js.map
